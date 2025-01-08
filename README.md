@@ -1,4 +1,4 @@
-Aplicativo simples para controle de estoque, feito em java com banco de dados.
+
 
 
 Comando para executar a tabela corretamente no database
