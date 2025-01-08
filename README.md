@@ -1,5 +1,7 @@
-//comando para executar tabela corretamente no db
+Aplicativo simples para controle de estoque, feito em java com banco de dados.
 
+
+Comando para executar a tabela corretamente no database
 ```sql
 CREATE TABLE db_produtos.tb_produtos (
     id INT auto_increment NOT NULL,
